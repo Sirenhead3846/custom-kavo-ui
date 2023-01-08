@@ -112,19 +112,19 @@ local themeStyles = {
         TextColor = Color3.fromRGB(152, 99, 53),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
-    Serpent = {
+    LolTheme = {
         SchemeColor = Color3.fromRGB(17, 0, 255),
         Background = Color3.fromRGB(31, 41, 43),
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
     },
-    DadTheme = {
+    Serpent = {
         SchemeColor = Color3.fromRGB(17, 0, 255),
-        Background = Color3.fromRGB(9, 0, 132),
-        Header = Color3.fromRGB(9, 0, 132),
+        Background = Color3.fromRGB(31, 41, 43),
+        Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(20, 20, 20)
+        ElementColor = Color3.fromRGB(22, 29, 31)
     }
 }
 local oldTheme = ""
