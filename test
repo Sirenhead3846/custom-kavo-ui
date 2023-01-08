@@ -118,6 +118,13 @@ local themeStyles = {
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
+    },
+    DadTheme = {
+        SchemeColor = Color3.fromRGB(17, 0, 255),
+        Background = Color3.fromRGB(9, 0, 132),
+        Header = Color3.fromRGB(9, 0, 132),
+        TextColor = Color3.fromRGB(255,255,255),
+        ElementColor = Color3.fromRGB(20, 20, 20)
     }
 }
 local oldTheme = ""
